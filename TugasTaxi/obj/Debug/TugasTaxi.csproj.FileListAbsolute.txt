@@ -1,0 +1,6 @@
+D:\SEMESTER 2\PEMROGRAMAN\Praktikum3\TugasTaxi\TugasTaxi\bin\Debug\TugasTaxi.exe.config
+D:\SEMESTER 2\PEMROGRAMAN\Praktikum3\TugasTaxi\TugasTaxi\obj\Debug\TugasTaxi.csprojResolveAssemblyReference.cache
+D:\SEMESTER 2\PEMROGRAMAN\Praktikum3\TugasTaxi\TugasTaxi\bin\Debug\TugasTaxi.exe
+D:\SEMESTER 2\PEMROGRAMAN\Praktikum3\TugasTaxi\TugasTaxi\bin\Debug\TugasTaxi.pdb
+D:\SEMESTER 2\PEMROGRAMAN\Praktikum3\TugasTaxi\TugasTaxi\obj\Debug\TugasTaxi.exe
+D:\SEMESTER 2\PEMROGRAMAN\Praktikum3\TugasTaxi\TugasTaxi\obj\Debug\TugasTaxi.pdb
